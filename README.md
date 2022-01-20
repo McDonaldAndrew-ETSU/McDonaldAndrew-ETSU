@@ -2,7 +2,9 @@
 - 👀 I’m interested in video games, cars, computers, phyisical fitness, and programming!
 - 🌱 I’m currently learning C#, .NET, and devoloping my skills further in HTML, Java, and SQL  
 - 💞️ I’m looking to collaborate on internships or job opportunities working from home!
-- 📫 How to reach me ...  Email: mcdonaldai@etsu.edu    Linkdin: https://www.linkedin.com/in/andrew-mcdonald-354b32228
+- 📫 How to reach me ...  
+Email: mcdonaldai@etsu.edu    
+Linkdin: https://www.linkedin.com/in/andrew-mcdonald-354b32228
 
    - I'm interested in learning all about becoming a **Full Stack Programmer** as I would like to eventually become one when I graduate from ETSU.  My goal is to find a 
 job where I can work from home!
