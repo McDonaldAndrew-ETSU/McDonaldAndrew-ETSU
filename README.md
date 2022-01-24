@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @McDonaldAndrew-ETSU, my real name is Andrew and I am currently a student at East Tennessee State University!
 - 👀 I’m interested in video games, cars, computers, phyisical fitness, and programming!
-- 🌱 I’m currently learning C#, .NET, and devoloping my skills further in HTML, Java, and SQL  
+- 🌱 I’m currently learning all about C#, .NET, and devoloping my skills further in HTML, Java, and SQL  
 - 💞️ I’m looking to collaborate on internships or job opportunities working from home!
 - 📫 How to reach me ...  
 Email: mcdonaldai@etsu.edu    
