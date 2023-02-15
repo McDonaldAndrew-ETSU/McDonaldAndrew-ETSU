@@ -8,7 +8,7 @@ Linkdin: https://www.linkedin.com/in/andrew-mcdonald-354b32228
 
    - I'm interested in learning all about becoming a **Full Stack Programmer** as I would like to eventually become one when I graduate from ETSU.  My goal is to find a 
 job where I can work from home!
-   - Outside of school, one of my favorite projects/hobbies is learning how to alter, decipher, and translate **.bin** files of vehicular Engine Control Units/Modules (ECU's/ECM's) and 
+   - Outside of school, and besides coding new and original software applications, one of my favorite projects/hobbies is  learning how to alter, decipher, and translate **.bin** files of vehicular Engine Control Units/Modules (ECU's/ECM's) and 
 Powertrain Control Modules (PCM's) in order to optimize engine and transmission performance.  This is known as "***Tuning***"!
 
 <!---
