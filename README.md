@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @McDonaldAndrew-ETSU, my real name is Andrew and I am currently a student at East Tennessee State University!
+- 👋 Hi, I’m @McDonaldAndrew-ETSU, my real name is Andrew and I am currently a student at East Tennessee State University! I graduate in May, 2024.
 - 👀 I’m interested in AI, Machine Learning, and Full-Stack Web Development!
 - 🌱 I’m currently maintaing my skills in C#, .NET, Java, JavaScript, and Python. I am also developing a Node package based from the ExpressJS framework on the side!
 - 💞️ I’m looking to collaborate together within internships or job opportunities working remotely!
