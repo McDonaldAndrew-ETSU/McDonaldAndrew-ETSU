@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrew, I've graduated in **December, 2025 with my MS in Artificial Intelligence and Machine Learning**. I also have a Bachelor's in Computing. Now I dedicate full time to Deep Learning Research!
+- 👋 Hi, I’m Andrew. I achieved my **MS in Artificial Intelligence and Machine Learning** in Dec., 2025 (as well as a Bachelor's in Computing in May, 2024!). Now I dedicate full time to Deep Learning Research!
 - How to contact me:
    Linkdin: https://www.linkedin.com/in/andrew-mcdonald-354b32228
 
